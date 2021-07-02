@@ -26,9 +26,7 @@
 4. Compute on Cloud
    1. Understanding Compute on Cloud
    2. Working with Compute on AWS
-      1. Create and EC2 instance and connect
    3. Working with Compute on Azure
-      1. 
    4. Working with Compute on GCP
 
 5. Storage on Cloud
@@ -51,17 +49,15 @@
    5. Database Offerings on GCP
 
 8. Putting it all together [AWS]
-   1. 
+   1. Host a single Instance website on AWS
+   2. Build a highly available website on AWS
 
-
-9.  Other Services
-   2. Introduction to DevOps services on AWS
-   3. Introduction to DevOps services on Azure
-   4. Introduction to DevOps services on GCP
-   5. Containers on AWS
-   6. Containers on Azure
-   7. Containers on GCP
+9. Other Services
+   1.  Introduction to DevOps services on AWS
+   2.  Introduction to DevOps services on Azure
+   3.  Introduction to DevOps services on GCP
+   4.  Containers on AWS
+   5.  Containers on Azure
+   6.  Containers on GCP
   
-
-
 
